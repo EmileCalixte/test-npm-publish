@@ -1,0 +1,19 @@
+{
+  "name": "@emilecalixte/test-npm-publish",
+  "version": "1.0.1",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmileCalixte/test-npm-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmileCalixte/test-npm-publish/issues"
+  },
+  "homepage": "https://github.com/EmileCalixte/test-npm-publish#readme"
+}

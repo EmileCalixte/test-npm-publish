@@ -4,7 +4,7 @@
   "description": "Just a test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EmileCalixte/test-npm-publish/issues"
   },
-  "homepage": "https://github.com/EmileCalixte/test-npm-publish#readme"
+  "homepage": "https://github.com/EmileCalixte/test-npm-publish#readme",
+  "devDependencies": {
+    "ava": "^4.1.0"
+  }
 }
